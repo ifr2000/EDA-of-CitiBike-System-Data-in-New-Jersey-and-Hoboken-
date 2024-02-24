@@ -23,4 +23,5 @@ disparities, and different usage patterns between casual and member riders. In o
 operations and the services it offers to its consumers, stakeholders can make data-driven decisions by having a
 greater understanding of these trends and patterns.
 
-## Please go through the attached report and presentation video to understand the output of this project.
+### Please go through the attached report and presentation video to understand the output of this project.
+
